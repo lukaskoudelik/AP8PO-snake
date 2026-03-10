@@ -1,0 +1,14 @@
+C:\Users\lukas\source\repos\Had\Had\bin\Debug\net8.0\Had.exe
+C:\Users\lukas\source\repos\Had\Had\bin\Debug\net8.0\Had.deps.json
+C:\Users\lukas\source\repos\Had\Had\bin\Debug\net8.0\Had.runtimeconfig.json
+C:\Users\lukas\source\repos\Had\Had\bin\Debug\net8.0\Had.dll
+C:\Users\lukas\source\repos\Had\Had\bin\Debug\net8.0\Had.pdb
+C:\Users\lukas\source\repos\Had\Had\obj\Debug\net8.0\Had.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\source\repos\Had\Had\obj\Debug\net8.0\Had.AssemblyInfoInputs.cache
+C:\Users\lukas\source\repos\Had\Had\obj\Debug\net8.0\Had.AssemblyInfo.cs
+C:\Users\lukas\source\repos\Had\Had\obj\Debug\net8.0\Had.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\Had\Had\obj\Debug\net8.0\Had.dll
+C:\Users\lukas\source\repos\Had\Had\obj\Debug\net8.0\refint\Had.dll
+C:\Users\lukas\source\repos\Had\Had\obj\Debug\net8.0\Had.pdb
+C:\Users\lukas\source\repos\Had\Had\obj\Debug\net8.0\Had.genruntimeconfig.cache
+C:\Users\lukas\source\repos\Had\Had\obj\Debug\net8.0\ref\Had.dll

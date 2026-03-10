@@ -1,0 +1,14 @@
+C:\Users\lukas\source\repos\Had\Had\bin\Debug\net8.0\SnakeGame.exe
+C:\Users\lukas\source\repos\Had\Had\bin\Debug\net8.0\SnakeGame.deps.json
+C:\Users\lukas\source\repos\Had\Had\bin\Debug\net8.0\SnakeGame.runtimeconfig.json
+C:\Users\lukas\source\repos\Had\Had\bin\Debug\net8.0\SnakeGame.dll
+C:\Users\lukas\source\repos\Had\Had\bin\Debug\net8.0\SnakeGame.pdb
+C:\Users\lukas\source\repos\Had\Had\obj\Debug\net8.0\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\source\repos\Had\Had\obj\Debug\net8.0\SnakeGame.AssemblyInfoInputs.cache
+C:\Users\lukas\source\repos\Had\Had\obj\Debug\net8.0\SnakeGame.AssemblyInfo.cs
+C:\Users\lukas\source\repos\Had\Had\obj\Debug\net8.0\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\Had\Had\obj\Debug\net8.0\SnakeGame.dll
+C:\Users\lukas\source\repos\Had\Had\obj\Debug\net8.0\refint\SnakeGame.dll
+C:\Users\lukas\source\repos\Had\Had\obj\Debug\net8.0\SnakeGame.pdb
+C:\Users\lukas\source\repos\Had\Had\obj\Debug\net8.0\SnakeGame.genruntimeconfig.cache
+C:\Users\lukas\source\repos\Had\Had\obj\Debug\net8.0\ref\SnakeGame.dll
